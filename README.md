@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 岸田楓馬 - Fuma Kishida
+## Fuma Kishida
 
 [早稲田大学先進理工学部応用物理学科](https://www.phys.waseda.ac.jp/)を卒業後、[合同会社 DMM.com](https://dmm-corp.com/) に機械学習エンジニアとして新卒入社。大学在学中から、コンピュータ自体への関心を元に、国内メガベンチャー企業などとの業務委託を通じて、システム開発やデータ分析、また、電子音楽の創作といった多岐にわたる分野で自己探求を続ける。技術と表現の融合を模索するため[合同会社ツーワンデジタル](https://21-digital-jp.github.io/ja/index.html)を設立。
-
-After graduated from the [Department of Applied Physics, School of Advanced Science and Engineering, Waseda University](https://www.phys.waseda.ac.jp/), joined [DMM.com LLC](https://dmm-corp.com/) as a machine learning engineer. While still a university student, collaborated with various organizations, including leading domestic tech ventures, through freelance work, gaining experience in system development and data analysis. Also explored personal creative interests, such as electronic music production. To pursue the integration of technology and expression, founded [21 Digital, LLC](https://21-digital-jp.github.io/en/index.html).
